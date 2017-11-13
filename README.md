@@ -24,17 +24,17 @@ https://www.meetup.com/iOS-Development-Meetup-for-Beginner/
 > 0-4. Fill "Product name" and then tap "Next"  
 > 0-5. Select the place for saving your project and then tap "Create"  
 
-#### 1, 🗂 Creat Sticker
+#### 1, 🗂 Create Sticker
 
 1-1. Under Sticker Pack right click on the "Sticker Pack" field. Hover over "Add Assets" and click "New Sticker".
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-en/blob/master/sample/5.gif" /></div></details>
 
-1-2, Download resources from resource <a href="https://github.com/iosClassForBeginner/sticker_en/resources">folder</a> in github
+1-2, Download resources from resource <a href="https://github.com/iosClassForBeginner/sticker_en/resources">folder</a> in GitHub
 
 1-3, From the downloaded resources drag and drop the skull image which is in .PNG <code>(very important)</code> to the Sticker.
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-en/blob/master/sample/5.gif" /></div></details>
 
-1-4, Run the app, and it will crash. Tha hacky way to fix this issue is to open simulator and go to the messenger app. Select a conversation and on the bottom of the page click on the ... to add more stickers. Then on the top right click on "Edit" and enable our newly created app. Now you should be able to send this sticker or attach it to any conversation bubble you like.
+1-4, Run the app, and it will crash. The hacky way to fix this issue is to open simulator and go to the messenger app. Select a conversation and on the bottom of the page click on the ... to add more stickers. Then on the top right click on "Edit" and enable our newly created app. Now you should be able to send this sticker or attach it to any conversation bubble you like.
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-en/blob/master/sample/5.gif" /></div></details>
 
 #### 2, 🗂 Creating animated sticker (Sticker Sequence)
