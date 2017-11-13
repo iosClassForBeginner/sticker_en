@@ -1,6 +1,6 @@
 # Code Together: Let's make iPhone app in an hour
 
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-en/blob/master/sample/sample.gif" width="50%" height="50%"/></div>  
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/sticker-app.jpg" width="50%" height="50%"/></div>  
 
   Thank you for visiting our account. We are going to make an iMessenger sticker app in an hour. If would you like to study yourself before hands-on, or review what you have learned in the session, please use the following material.
 
