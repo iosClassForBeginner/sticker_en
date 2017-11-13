@@ -39,6 +39,8 @@ https://www.meetup.com/iOS-Development-Meetup-for-Beginner/
 
 #### 2, 🗂 Creating animated sticker (Sticker Sequence)
 
-2-1, Same as the sticker under Sticker Pack right click on the "Sticker Pack" field. Hover over "Add Assets" and click "New Sticker Sequence". From the downloaded resources select all the cloud images and drop them on the Sticker Sequence.
+2-1, Same as the sticker under Sticker Pack right click on the "Sticker Pack" field. Hover over "Add Assets" and click "New Sticker Sequence". From the downloaded resources select all the cloud images and drop them on the Sticker Sequence. You can set the "Timing" to 8 frames per seconds in the Attributes Inspector.
 > <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-en/blob/master/sample/5.gif" /></div></details>
 
+2-2, Run your app and enjoy the stickers you made by adding them to the bubbles or sending them by themselves.
+> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-en/blob/master/sample/5.gif" /></div></details>
