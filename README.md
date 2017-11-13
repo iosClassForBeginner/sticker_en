@@ -1,6 +1,6 @@
 # Code Together: Let's make iPhone app in an hour
 
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/sticker-app.png" width="50%" height="50%"/></div>  
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/blob/master/stickers-app.png" width="50%" height="50%"/></div>  
 
   Thank you for visiting our account. We are going to make an iMessenger sticker app in an hour. If would you like to study yourself before hands-on, or review what you have learned in the session, please use the following material.
 
@@ -23,25 +23,25 @@ https://www.meetup.com/iOS-Development-Meetup-for-Beginner/
 > 0-3. Select "Sticker Pack App" and then tap "Next"  
 > 0-4. Fill "Product name" and then tap "Next"  
 > 0-5. Select the place for saving your project and then tap "Create"  
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/vids/vid1.gif" /></div></details>
+> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/blob/master/vids/vid1.gif" /></div></details>
 
 #### 1, 🗂 Create Sticker
 
 1-1. Under Sticker Pack right click on the "Sticker Pack" field. Hover over "Add Assets" and click "New Sticker".
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/vids/vid2.gif" /></div></details>
+> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/blob/master/vids/vid2.gif" /></div></details>
 
-1-2, Download resources from resource <a href="https://github.com/iosClassForBeginner/sticker_en/resources">folder</a> in GitHub
+1-2, Download resources from resource <a href="https://github.com/iosClassForBeginner/sticker_en/tree/master/resources">folder</a> in GitHub
 
 1-3, From the downloaded resources drag and drop the skull image which is in .PNG <code>(very important)</code> to the Sticker.
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/vids/vid3.gif" /></div></details>
+> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/blob/master/vids/vid3.gif" /></div></details>
 
 1-4, Run the app, and it will crash. The hacky way to fix this issue is to open simulator and go to the messenger app. Select a conversation and on the bottom of the page click on the ... to add more stickers. Then on the top right click on "Edit" and enable our newly created app. Now you should be able to send this sticker or attach it to any conversation bubble you like.
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/vids/vid4.gif" /></div></details>
+> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/blob/master/vids/vid4.gif" /></div></details>
 
 #### 2, 🗂 Creating animated sticker (Sticker Sequence)
 
 2-1, Same as the sticker under Sticker Pack right click on the "Sticker Pack" field. Hover over "Add Assets" and click "New Sticker Sequence". From the downloaded resources select all the cloud images and drop them on the Sticker Sequence. You can set the "Timing" to 8 frames per seconds in the Attributes Inspector.
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/vids/vid5.gif" /></div></details>
+> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/blob/master/vids/vid5.gif" /></div></details>
 
 2-2, Run your app and enjoy the stickers you made by adding them to the bubbles or sending them by themselves.
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/vids/vid6.gif" /></div></details>
+> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sticker_en/blob/master/vids/vid6.gif" /></div></details>
